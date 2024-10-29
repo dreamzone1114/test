@@ -1,0 +1,14 @@
+/*text1 ID*/
+#text1{
+    /*設定背景顏色紅色*/
+    background-color: red;
+    /*設定文字顏色白色*/
+    color: white;
+}
+/*text1 ID*/
+#btn1{
+    /*設定背景顏色綠色*/
+    background-color: green;
+    /*設定文字顏色白色*/
+    color: white;
+}
